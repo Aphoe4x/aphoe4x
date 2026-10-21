@@ -6,19 +6,19 @@ I'm a software engineer who builds web products, mostly with PHP and Laravel. I 
 
 ## Side projects
 
-**E-commerce shop website**
+**🛒 E-commerce shop website**
 
 Built with React, Node.js, Express and Supabase. It has a product catalogue, cart, checkout and orders, Google sign-in, product reviews and a WhatsApp contact channel. There is also an installable PWA and an Expo mobile app that uses the same API.
 
-**AI todo list**
+**🤖 AI todo list**
 
 Written in PHP, MySQL and JavaScript. It has drag and drop, filters, dark mode and a built in Pomodoro timer. The backend is a PHP JSON API on MySQL, and the whole app runs in Docker so it can deploy on Render.
 
-**Neon Runner (Orb Temple)**
+**🎮 Neon Runner (Orb Temple)**
 
 Made with JavaScript and Three.js. A 3D endless runner built for start.ng with neon graphics, random obstacles, sound and particle effects. It runs straight in the browser with no game engine.
 
-**mini-booking-system**
+**📅 mini-booking-system**
 
 Made with Laravel, Blade and Tailwind. A small booking app with role based access, database migrations and tests.
 
