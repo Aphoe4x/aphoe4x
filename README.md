@@ -1,26 +1,30 @@
 # Hi, I'm Abdulbasit 👋
 
-Software engineer who loves building web products, mostly in **PHP** and **Laravel**, with **WordPress**, **JavaScript** and **MySQL** alongside. Currently an AI Product Engineer in **HNG15**. Outside of work I build small, working products — booking tools, e-commerce shops, dashboards and games.
+I'm a software engineer who builds web products, mostly with PHP and Laravel. I also work with WordPress, JavaScript and MySQL. Right now I'm an AI Product Engineer in HNG15. Outside work I like building small things that work: booking tools, online shops, dashboards and games.
 
 🌐 **Portfolio:** [aphoe4x.github.io](https://aphoe4x.github.io/)
 
 ## Side projects
 
-**🛒 E-commerce shop website** · React, Node.js, Express, Supabase
-Full online shop: product catalogue, cart, checkout and orders, Google sign-in, product reviews and a WhatsApp contact channel — shipped as an installable PWA, with an Expo mobile app running on the same API.
+**E-commerce shop website**
 
-**🤖 AI todo list** · PHP, MySQL, JavaScript, Docker
-Task manager with drag-and-drop, filters, dark mode and a built-in Pomodoro focus timer, behind a PHP JSON API on MySQL. Containerised with Docker and deploy-ready on Render.
+Built with React, Node.js, Express and Supabase. It has a product catalogue, cart, checkout and orders, Google sign-in, product reviews and a WhatsApp contact channel. There is also an installable PWA and an Expo mobile app that uses the same API.
 
-**🎮 Neon Runner (Orb Temple)** · JavaScript, Three.js
-A 3D endless runner built for start.ng: neon visuals, generated obstacles, sound and particle effects — running straight from the browser with no game engine.
+**AI todo list**
 
-**📅 mini-booking-system** · Laravel, Blade, Tailwind
-A small booking system built with Laravel: role-based access, a migrations-backed data model and tests, styled with Tailwind.
+Written in PHP, MySQL and JavaScript. It has drag and drop, filters, dark mode and a built in Pomodoro timer. The backend is a PHP JSON API on MySQL, and the whole app runs in Docker so it can deploy on Render.
+
+**Neon Runner (Orb Temple)**
+
+Made with JavaScript and Three.js. A 3D endless runner built for start.ng with neon graphics, random obstacles, sound and particle effects. It runs straight in the browser with no game engine.
+
+**mini-booking-system**
+
+Made with Laravel, Blade and Tailwind. A small booking app with role based access, database migrations and tests.
 
 ## At HNG15
 
-Currently an AI Product Engineer in **HNG15**, building and shipping AI-powered product features. <!-- edit this line: add what you actually work on (tasks, products, team) -->
+I build and ship AI powered product features in HNG15. <!-- edit: write what you actually work on -->
 
 ## Stack
 
