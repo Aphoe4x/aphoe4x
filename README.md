@@ -1,6 +1,6 @@
 # Hi, I'm Abdulbasit 👋
 
-I'm a software engineer who builds web products, mostly with PHP and Laravel. I also work with WordPress, JavaScript and MySQL. Right now I'm an AI Product Engineer in HNG15. Outside work I like building small things that work: booking tools, online shops, dashboards and games.
+I'm a software engineer who builds web products, mostly with PHP and Laravel. I also work with WordPress, JavaScript and MySQL. I recently completed HNG15 as an AI Product Engineer and finished the program as a finalist. Outside work I like building small things that work: booking tools, online shops, dashboards and games.
 
 🌐 **Portfolio:** [aphoe4x.github.io](https://aphoe4x.github.io/)
 
@@ -24,7 +24,7 @@ Made with Laravel, Blade and Tailwind. A small booking app with role based acces
 
 ## At HNG15
 
-I build and ship AI powered product features in HNG15. <!-- edit: write what you actually work on -->
+I built and shipped AI product features end to end: an e-commerce application (React, Node.js, Supabase), containerized PHP services (Docker, Render), and structured docs (PRDs, AGENTS.md, deployment checklists). The program ended in November 2026 and I finished as a finalist.
 
 ## Stack
 
