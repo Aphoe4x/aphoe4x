@@ -16,7 +16,7 @@ Written in PHP, MySQL and JavaScript. It has drag and drop, filters, dark mode a
 
 **🎮 Neon Runner (Orb Temple)**
 
-Made with JavaScript and Three.js. A 3D endless runner built for start.ng with neon graphics, random obstacles, sound and particle effects. It runs straight in the browser with no game engine.
+Made with JavaScript and Three.js. A 3D endless runner built for start.ng with neon graphics, random obstacles, sound and particle effects. It runs straight in the browser with no game engine. [Play it live](https://aphoe4x.github.io/orb-temple/).
 
 **📅 mini-booking-system**
 
