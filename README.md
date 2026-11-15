@@ -8,7 +8,7 @@ I'm a software engineer based in Lagos, Nigeria who builds web products, mostly 
 
 **🃏 Whot**
 
-A Nigerian Whot card game with a rules engine, an AI table and realtime multiplayer rooms with room codes. Play alone against the AI, or open a room and share the code with a friend. Built with JavaScript, Node.js and Socket.IO, with the game server in Docker. [Play it live](https://aphoe4x.github.io/whot/).
+A Nigerian Whot card game with a rules engine and realtime multiplayer rooms with room codes. Play alone against the computer, or open a room and share the code with a friend. Built with JavaScript, Node.js and Socket.IO, with the game server in Docker. [Play it live](https://aphoe4x.github.io/whot/).
 
 **🐛 Ziki**
 
