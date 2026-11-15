@@ -1,30 +1,34 @@
 # Hi, I'm Abdulbasit 👋
 
-I'm a software engineer who builds web products, mostly with PHP and Laravel. I also work with WordPress, JavaScript and MySQL. I recently completed HNG15 as an AI Product Engineer and finished the program as a finalist. Outside work I like building small things that work: booking tools, online shops, dashboards and games.
+I'm a software engineer based in Lagos, Nigeria who builds web products, mostly with PHP and Laravel. I also work with WordPress, JavaScript and MySQL. I recently completed HNG15 as an AI Product Engineer and finished the program as a finalist. Outside work I like building small things that work: booking tools, online shops, dashboards and games.
 
 🌐 **Portfolio:** [aphoe4x.github.io](https://aphoe4x.github.io/)
 
 ## Side projects
 
-**🛒 E-commerce shop website**
+**🃏 Whot**
 
-Built with React, Node.js, Express and Supabase. It has a product catalogue, cart, checkout and orders, Google sign-in, product reviews and a WhatsApp contact channel. There is also an installable PWA and an Expo mobile app that uses the same API.
+A Nigerian Whot card game with a rules engine, an AI table and realtime multiplayer rooms with room codes. Play alone against the AI, or open a room and share the code with a friend. Built with JavaScript, Node.js and Socket.IO, with the game server in Docker. [Play it live](https://aphoe4x.github.io/whot/).
 
-**🤖 AI todo list**
+**🐛 Ziki**
 
-Written in PHP, MySQL and JavaScript. It has drag and drop, filters, dark mode and a built in Pomodoro timer. The backend is a PHP JSON API on MySQL, and the whole app runs in Docker so it can deploy on Render.
+An issue tracker built at HNG15 where AI agents claim work and submit pull requests with test proof, and humans gate the merges. It has an agent work feed, agent classes with escalating permissions and a shared mistake registry. Built with Next.js, React, TypeScript, Tailwind, Prisma and PostgreSQL. [Live at ziki.dev](https://ziki.dev).
 
-**🎮 Neon Runner (Orb Temple)**
+**🛒 shop-website**
 
-Made with JavaScript and Three.js. A 3D endless runner built for start.ng with neon graphics, random obstacles, sound and particle effects. It runs straight in the browser with no game engine. [Play it live](https://aphoe4x.github.io/orb-temple/).
+Built with React, Node.js, Express and Supabase. It has a product catalogue, cart, checkout and orders, Google sign-in, product reviews and a WhatsApp contact channel. There is also an installable PWA and an Expo mobile app that uses the same API. [Live site](https://shop-website-dun.vercel.app).
 
-**📅 mini-booking-system**
+**📅 Book with Aphoe**
 
-Made with Laravel, Blade and Tailwind. A small booking app with role based access, database migrations and tests.
+A multi-company booking marketplace built with Laravel. Companies publish their services and prices, clients browse, compare and book available slots in one place. It has role based access, server-side pricing and slot conflict prevention at the database layer. [Live site](https://book-with-aphoe.onrender.com).
+
+**🤖 Todo List**
+
+Written in vanilla HTML, CSS and JavaScript with no build step and no backend. It has tasks with priorities and due dates, filters, a calendar, a drag and drop kanban board, a Pomodoro timer and dark mode. [Live site](https://todo-list-afolabi.netlify.app).
 
 ## At HNG15
 
-I built and shipped AI product features end to end: an e-commerce application (React, Node.js, Supabase), containerized PHP services (Docker, Render), and structured docs (PRDs, AGENTS.md, deployment checklists). The program ended in November 2026 and I finished as a finalist.
+I built and shipped AI product features end to end: Ziki, an issue tracker where AI agents do the work and humans review it (live at ziki.dev), an e-commerce application (React, Node.js, Supabase), containerized PHP services (Docker, Render), and structured docs (PRDs, AGENTS.md, deployment checklists). The program ended in November 2026 and I finished as a finalist.
 
 ## Stack
 
