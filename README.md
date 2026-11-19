@@ -2,13 +2,13 @@
 
 I'm a software engineer based in Lagos, Nigeria who builds web products, mostly with PHP and Laravel. I also work with WordPress, JavaScript and MySQL. I recently completed HNG15 as an AI Product Engineer and finished the program as a finalist. Outside work I like building small things that work: booking tools, online shops, dashboards and games.
 
-🌐 **Portfolio:** [aphoe4x.github.io](https://aphoe4x.github.io/)
+🌐 **Portfolio:** [aphoe4x.github.io/portfolio/](https://aphoe4x.github.io/portfolio/)
 
 ## Side projects
 
 **🃏 Whot**
 
-A Nigerian Whot card game with a rules engine and realtime multiplayer rooms with room codes. Play alone against the computer, or open a room and share the code with a friend. Built with JavaScript, Node.js and Socket.IO, with the game server in Docker. [Play it live](https://aphoe4x.github.io/whot/).
+A Nigerian Whot card game with a rules engine and realtime multiplayer rooms with room codes. Play alone against the computer, or open a room and share the code with a friend. Built with JavaScript, Node.js and Socket.IO, with the game server in Docker. [Play it live at naija-whot.start.ng](https://naija-whot.start.ng/).
 
 **🐛 Ziki**
 
