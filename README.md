@@ -8,23 +8,23 @@ I'm a software engineer based in Lagos, Nigeria who builds web products, mostly 
 
 **🃏 Whot**
 
-A Nigerian Whot card game with a rules engine and realtime multiplayer rooms with room codes. Play alone against the computer, or open a room and share the code with a friend. Built with JavaScript, Node.js and Socket.IO, with the game server in Docker. Play it live at [https://naija-whot.start.ng/](https://naija-whot.start.ng/)..
+A Nigerian Whot card game with a rules engine and realtime multiplayer rooms with room codes. Play alone against the computer, or open a room and share the code with a friend. Built with JavaScript, Node.js and Socket.IO, with the game server in Docker. Play it live at [https://naija-whot.start.ng/](https://naija-whot.start.ng/).
 
 **🐛 Ziki**
 
-An issue tracker built at HNG15 where AI agents claim work and submit pull requests with test proof, and humans gate the merges. It has an agent work feed, agent classes with escalating permissions and a shared mistake registry. Built with Next.js, React, TypeScript, Tailwind, Prisma and PostgreSQL. Live at [ziki.dev](https://ziki.dev)..
+An issue tracker built at HNG15 where AI agents claim work and submit pull requests with test proof, and humans gate the merges. It has an agent work feed, agent classes with escalating permissions and a shared mistake registry. Built with Next.js, React, TypeScript, Tailwind, Prisma and PostgreSQL. Live at [ziki.dev](https://ziki.dev).
 
 **🛒 shop-website**
 
-Built with React, Node.js, Express and Supabase. It has a product catalogue, cart, checkout and orders, Google sign-in, product reviews and a WhatsApp contact channel. There is also an installable PWA and an Expo mobile app that uses the same API. Live at [shop-website-dun.vercel.app](https://shop-website-dun.vercel.app)..
+Built with React, Node.js, Express and Supabase. It has a product catalogue, cart, checkout and orders, Google sign-in, product reviews and a WhatsApp contact channel. There is also an installable PWA and an Expo mobile app that uses the same API. Live at [shop-website-dun.vercel.app](https://shop-website-dun.vercel.app).
 
 **📅 Book with Aphoe**
 
-A multi-company booking marketplace built with Laravel. Companies publish their services and prices, clients browse, compare and book available slots in one place. It has role based access, server-side pricing and slot conflict prevention at the database layer. Live at [book-with-aphoe.onrender.com](https://book-with-aphoe.onrender.com)..
+A multi-company booking marketplace built with Laravel. Companies publish their services and prices, clients browse, compare and book available slots in one place. It has role based access, server-side pricing and slot conflict prevention at the database layer. Live at [book-with-aphoe.onrender.com](https://book-with-aphoe.onrender.com).
 
 **🤖 Todo List**
 
-Written in vanilla HTML, CSS and JavaScript with no build step and no backend. It has tasks with priorities and due dates, filters, a calendar, a drag and drop kanban board, a Pomodoro timer and dark mode. Live at [todo-list-afolabi.netlify.app](https://todo-list-afolabi.netlify.app)..
+Written in vanilla HTML, CSS and JavaScript with no build step and no backend. It has tasks with priorities and due dates, filters, a calendar, a drag and drop kanban board, a Pomodoro timer and dark mode. Live at [todo-list-afolabi.netlify.app](https://todo-list-afolabi.netlify.app).
 
 ## At HNG15
 
@@ -42,4 +42,4 @@ I built and shipped AI product features end to end: Ziki, an issue tracker where
 
 ## Find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afolabi-abdulbasit-604784275/) [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/aphoooe) [![Portfolio](https://img.shields.io/badge/Portfolio-aphoe4x.github.io-000000?style=flat&logo=google-chrome&logoColor=white)](https://aphoe4x.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afolabi-abdulbasit-604784275/) [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/aphoooe) [![Portfolio](https://img.shields.io/badge/Portfolio-aphoe4x.github.io%2Fportfolio-000000?style=flat&logo=google-chrome&logoColor=white)](https://aphoe4x.github.io/portfolio/)
