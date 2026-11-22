@@ -22,7 +22,7 @@ Built with React, Node.js, Express and Supabase. It has a product catalogue, car
 
 A multi-company booking marketplace built with Laravel. Companies publish their services and prices, clients browse, compare and book available slots in one place. It has role based access, server-side pricing and slot conflict prevention at the database layer. Live at [book-with-aphoe.onrender.com](https://book-with-aphoe.onrender.com).
 
-**<img src="https://aphoe4x.github.io/portfolio/assets/projects/todo.png" alt="" width="16" height="16" /> Todo List**
+**<img src="https://aphoe4x.github.io/portfolio/assets/projects/todo.svg" alt="" width="16" height="16" /> Todo List**
 
 Written in vanilla HTML, CSS and JavaScript with no build step and no backend. It has tasks with priorities and due dates, filters, a calendar, a drag and drop kanban board, a Pomodoro timer and dark mode. Live at [todo-list-afolabi.netlify.app](https://todo-list-afolabi.netlify.app).
 
